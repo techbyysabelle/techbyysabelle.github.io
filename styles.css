@@ -1,0 +1,10 @@
+h2{
+    font-family: "Alegreya", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+header{
+    background-color: rgb(108, 108, 108);
+}
